@@ -59,6 +59,8 @@ export const TONE_LIST = [
       frequency_penalty: 0.1,
     },
   },
+
+  
   {
     id: 2,
     name: 'Balanced',
