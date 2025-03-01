@@ -6,6 +6,7 @@ export let apiPrefix = "";
 export let publicApiPrefix = "";
 export let marketplaceApiPrefix = "";
 export let marketplaceUrlPrefix = "";
+export let a = "";
 
 // NEXT_PUBLIC_API_PREFIX=/console/api NEXT_PUBLIC_PUBLIC_API_PREFIX=/api npm run start
 if (
